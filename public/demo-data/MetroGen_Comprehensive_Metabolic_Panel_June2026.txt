@@ -1,0 +1,56 @@
+================================================================================
+                    METRO GENERAL PATHOLOGY LABORATORIES
+           742 Evergreen Terrace, Suite 400, Metro City | (555) 019-2834
+                    CLINICAL LABORATORY ACCREDITATION: CAP #829103
+================================================================================
+
+PATIENT INFORMATION:
+Name: Eleanor Vance                     DOB: 03/15/1964 (Age: 62)
+MRN: 90281-DEMO                         Gender: Female
+Ordering Physician: Dr. Sarah Jenkins, MD Fasting Status: Fasting (12 hrs)
+Collected: 06/12/2026 07:30 AM          Received: 06/12/2026 08:45 AM
+Reported: 06/12/2026 10:15 AM           Specimen: Serum Gel / Fluoride Plasma
+
+--------------------------------------------------------------------------------
+COMPREHENSIVE METABOLIC & RENAL PROFILE (CMP)
+--------------------------------------------------------------------------------
+TEST NAME                     RESULT      UNITS      REFERENCE INTERVAL   STATUS
+--------------------------------------------------------------------------------
+Fasting Blood Glucose         168         mg/dL      70 - 99              [HIGH]
+Hemoglobin A1c (HbA1c)        8.9         %          4.0 - 5.6            [HIGH]
+Serum Creatinine              1.85        mg/dL      0.60 - 1.20          [HIGH]
+Blood Urea Nitrogen (BUN)     28          mg/dL      7 - 20               [HIGH]
+eGFR (CKD-EPI Formula)        38          mL/min     > 60                 [LOW]
+Serum Sodium                  139         mmol/L     135 - 145            NORMAL
+Serum Potassium               4.6         mmol/L     3.5 - 5.1            NORMAL
+Serum Chloride                102         mmol/L     96 - 106             NORMAL
+Carbon Dioxide (CO2)          23          mmol/L     22 - 29              NORMAL
+Calcium, Total                9.2         mg/dL      8.5 - 10.2           NORMAL
+Total Protein                 7.1         g/dL       6.0 - 8.3            NORMAL
+Albumin                       4.0         g/dL       3.5 - 5.0            NORMAL
+Bilirubin, Total              0.7         mg/dL      0.1 - 1.2            NORMAL
+Alkaline Phosphatase (ALP)    74          U/L        44 - 121             NORMAL
+AST (SGOT)                    24          U/L        8 - 48               NORMAL
+ALT (SGPT)                    29          U/L        7 - 55               NORMAL
+--------------------------------------------------------------------------------
+LIPID FRACTIONATION PROFILE
+--------------------------------------------------------------------------------
+Total Cholesterol             218         mg/dL      125 - 200            [HIGH]
+Triglycerides                 195         mg/dL      50 - 150             [HIGH]
+HDL Cholesterol               44          mg/dL      > 50                 [LOW]
+LDL Cholesterol (Calculated)  135         mg/dL      < 100                [HIGH]
+Non-HDL Cholesterol           174         mg/dL      < 130                [HIGH]
+
+--------------------------------------------------------------------------------
+PATHOLOGIST INTERPRETATION & NOTES:
+1. Significant progression of glycemic markers (HbA1c 8.9% vs baseline 6.9% in
+   January 2026). Suggests worsening glycemic regulation.
+2. Acute elevation of Serum Creatinine (1.85 mg/dL vs baseline 1.05 mg/dL) with
+   estimated GFR of 38 mL/min/1.73m2 indicates moderate-to-severe renal
+   filtration compromise (Stage 3b CKD criteria).
+3. Clinical correlation and nephrology consultation strongly advised. Dose
+   adjustments for renally cleared therapeutics recommended.
+
+Electronically Signed by:
+Marcus Brody, MD, FCAP (Chief of Clinical Chemistry)
+================================================================================

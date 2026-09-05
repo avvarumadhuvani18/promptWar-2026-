@@ -1,0 +1,49 @@
+================================================================================
+                    ST. JUDE AMBULATORY FAMILY CARE
+               1200 St. Jude Boulevard, Suite 210, Metro City
+                   Phone: (555) 018-9921 | Fax: (555) 018-9922
+================================================================================
+
+PATIENT VISIT SUMMARY & OUTPATIENT PRESCRIPTION
+Date of Service: July 4, 2026 | Encounter Type: Urgent Care / Dental Pain
+Patient Name: Eleanor Vance            DOB: 03/15/1964 (Age: 62)
+MRN: 90281-DEMO                        Sex: Female
+Attending Clinician: Dr. Robert Miller, MD (Locum Tenens Physician)
+Primary Clinic Note: Patient presented with localized right mandibular molar
+throbbing pain. Exam reveals mild localized gingival swelling. Referred for
+urgent dental evaluation on Monday. Prophylactic antibiotic and routine chronic
+care maintenance orders reviewed.
+
+--------------------------------------------------------------------------------
+ACTIVE PRESCRIPTIONS & DISCHARGE ORDERS
+--------------------------------------------------------------------------------
+
+1. AMOXICILLIN 500 MG CAPSULE
+   Sig: Take 1 capsule by mouth every 8 hours (three times daily) for 7 days.
+   Indication: Dental abscess prophylaxis pending root canal assessment.
+   Quantity: 21 capsules | Refills: 0
+
+2. METFORMIN HCL 1000 MG TABLET
+   Sig: Take 1 tablet by mouth twice daily with morning and evening meals.
+   Indication: Type 2 Diabetes Mellitus glycemic control.
+   Quantity: 60 tablets | Refills: 3
+
+3. LISINOPRIL 20 MG TABLET
+   Sig: Take 1 tablet by mouth once daily in the morning.
+   Indication: Essential Hypertension.
+   Quantity: 30 tablets | Refills: 5
+
+4. ATORVASTATIN CALCIUM 40 MG TABLET
+   Sig: Take 1 tablet by mouth once daily at bedtime.
+   Indication: Hyperlipidemia / Atherosclerotic cardiovascular risk reduction.
+   Quantity: 30 tablets | Refills: 5
+
+--------------------------------------------------------------------------------
+DISCHARGE INSTRUCTIONS & WARNINGS:
+- Complete entire course of antibiotics as directed.
+- Follow up with your Primary Care Physician (Dr. Sarah Jenkins) in 2-3 weeks.
+- Seek immediate emergency medical care if experiencing chest pain, facial swelling,
+  severe shortness of breath, or sudden rash.
+
+Provider Signature: Dr. Robert Miller, MD (NPI: 1982049102)
+================================================================================

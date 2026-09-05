@@ -1,0 +1,50 @@
+================================================================================
+                    METRO GENERAL PATHOLOGY LABORATORIES
+           742 Evergreen Terrace, Suite 400, Metro City | (555) 019-2834
+                    CLINICAL LABORATORY ACCREDITATION: CAP #829103
+================================================================================
+
+PATIENT INFORMATION:
+Name: Eleanor Vance                     DOB: 03/15/1964 (Age: 62)
+MRN: 90281-DEMO                         Gender: Female
+Ordering Physician: Dr. Sarah Jenkins, MD
+Collected: 06/12/2026 07:30 AM          Received: 06/12/2026 08:45 AM
+Reported: 06/12/2026 10:16 AM           Specimen: Whole Blood EDTA (Lavender Top)
+
+--------------------------------------------------------------------------------
+AUTOMATED COMPLETE BLOOD COUNT (CBC) WITH FIVE-PART DIFFERENTIAL
+--------------------------------------------------------------------------------
+TEST NAME                     RESULT      UNITS          REFERENCE RANGE  FLAG
+--------------------------------------------------------------------------------
+White Blood Cells (WBC)       6.8         x10^3/uL       4.5 - 11.0       NORMAL
+Red Blood Cells (RBC)         3.62        x10^6/uL       4.00 - 5.40      [LOW]
+Hemoglobin (Hgb)              10.2        g/dL           12.0 - 16.0      [LOW]
+Hematocrit (Hct)              31.4        %              36.0 - 48.0      [LOW]
+MCV (Mean Corpuscular Vol)    78.5        fL             80.0 - 100.0     [LOW]
+MCH                           25.8        pg             27.0 - 33.0      [LOW]
+MCHC                          32.5        g/dL           32.0 - 36.0      NORMAL
+RDW-CV                        16.2        %              11.5 - 14.5      [HIGH]
+Platelet Count                215         x10^3/uL       150 - 450        NORMAL
+MPV                           9.8         fL             7.4 - 10.4       NORMAL
+
+DIFFERENTIAL - AUTOMATED:
+Neutrophils %                 62.4        %              45.0 - 70.0      NORMAL
+Lymphocytes %                 28.1        %              20.0 - 40.0      NORMAL
+Monocytes %                   6.5         %              2.0 - 8.0        NORMAL
+Eosinophils %                 2.2         %              1.0 - 4.0        NORMAL
+Basophils %                   0.8         %              0.0 - 2.0        NORMAL
+--------------------------------------------------------------------------------
+PERIPHERAL BLOOD SMEAR MORPHOLOGY:
+Red blood cells exhibit mild-to-moderate microcytosis and hypochromasia with
+elevated red cell distribution width (anisocytosis). White blood cells and
+platelets are morphologically unremarkable.
+
+IMPRESSION:
+Microcytic, hypochromic anemia. Findings are most commonly consistent with
+iron deficiency anemia or anemia secondary to chronic disease / inflammatory
+state. Serum Ferritin, Iron, and Total Iron Binding Capacity (TIBC) testing
+recommended for definitive etiology.
+
+Electronically Signed by:
+Evelyn Carter, MD (Hematopathologist)
+================================================================================
